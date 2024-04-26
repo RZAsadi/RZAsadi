@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=RZAsadi&hide=contribs,issues&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=RZAsadi&show_icons=true&theme=radical" alt="RZAsadi GitHub stats">
 </div>
 
 <br>
